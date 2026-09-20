@@ -1,82 +1,87 @@
-### Hi there, 👋🏼 I'm Xenabyte.
-<!--[![Actions Status](https://github.com/xenabyte/xenabyte/workflows/wakatime-stats/badge.svg)](https://github.com/xenabyte/xenabyte/actions)
-[![Actions Status](https://github.com/xenabyte/xenabyte/workflows/update-gh-activity/badge.svg)](https://github.com/xenabyte/xenabyte/actions)-->
-![](https://visitor-badge.glitch.me/badge?page_id=xenabyte.xenabyte)
+<div align="center">
 
+# Hi there, I'm Oladipo Damilare 👋
+### **Full-Stack, Mobile & Systems Integration Engineer**
 
+[![Visitor Count](https://komarev.com/ghpvc/?username=xenabyte&color=339933&style=flat-square)](https://github.com/xenabyte/xenabyte)
+[![GitHub Followers](https://img.shields.io/github/followers/xenabyte?style=social)](https://github.com/xenabyte)
 
+*Building Cross-Platform Mobile Applications, Scalable Web Systems, and Custom Hardware Automations.*
 
+---
 
+### 📬 Connect with me
 
- </br></br>
-<h2>💻 My Actions stats: 💻</h2>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iconcept573@gmail.com)
 
-<br>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=xenabyte&count_private=false&theme=radical&show_icons=true">
-</p>
+</div>
 
+---
 
-  <br>
-<p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenabyte&langs_count=5&theme=radical&show_icons=true">
-</p>
+### 📱 Mobile & Core Focus
 
+* **Cross-Platform Mobile Apps:** Building performant, responsive Android & iOS apps using **Flutter & Dart**.
+* **State Management & Architecture:** Clean architecture implementations with Provider, Bloc, and Riverpod.
+* **API & Backend Integration:** Connecting Flutter frontends with **Laravel REST APIs**, **Django**, and custom **MySQL** backends.
+* **Network & Hardware Automation:** Integrating mobile/web interfaces with MikroTik routers, Radius Manager, and ZKTeco biometrics.
 
-<p><a href="https://www.twitter.com/<username>"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/<username>"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/<username>/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+---
 
-- 😄 Pronouns - He/ His/ Him
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=xenabyte&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+### 🛠️ Tech Stack & Ecosystem
 
-**Languages and Tools:**  
-***Web Tools***
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap4](https://img.shields.io/badge/Bootstrap%20-%23E34F26.svg?&style=for-the-badge&logo=bootstrap&ogoColor=white)
-![React Js](https://img.shields.io/badge/React%20Js%20-%2300599C.svg?&style=for-the-badge&logo=React&ogoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel%20-%23E34F26.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django%20-%23E34F26.svg?&style=for-the-badge&logo=Django&logoColor=white)
+**Mobile & Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+**Backend & Databases**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-***Programming Language***
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/528/528261.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2535/2535523.svg"></code>
-<br></br>
-***Misc Tools***
-![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![Trello](https://img.shields.io/badge/Trello%20-%23F05033.svg?&style=for-the-badge&logo=trello&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma%20-%23F05033.svg?&style=for-the-badge&logo=figma&logoColor=white)
+**Tools & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+---
 
+### 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xenabyte&theme=onedark&column=6&margin-w=15" alt="xenabyte trophies" />
+</div>
 
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xenabyte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenabyte&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
 
-- 📫 How to reach me -<iconcept573@gmail.com>;
+<br />
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenabyte&theme=tokyonight" alt="xenabyte streak" />
+</div>
 
-<!--
-**xenabyte/xenabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚡ Quick Info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨🏻‍💻 Name: **Oladipo Damilare**
+* 🙋‍♂️ Pronouns: **He / Him**
+* 🚀 Focus: **Flutter Cross-Platform Apps & Full-Stack Systems**
+* 💬 Ask me about: **Flutter, Dart, Laravel APIs, Network Systems, and MySQL**
+* 📬 Reach out: **iconcept573@gmail.com**
